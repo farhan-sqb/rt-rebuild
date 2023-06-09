@@ -1,0 +1,17 @@
+/* **************** Global Path **************** */
+@import "https://unpkg.com/aos@2.3.1/dist/aos.css";
+@import './global/variable.css';
+@import './global/bootstrap.css';
+
+/* **************** Pages Path **************** */
+@import './pages/index.css';
+
+/* **************** Font Awesom Icon **************** */
+@import 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css';
+
+/* **************** Font Family **************** */
+@import './font/urbane/font.css';
+@import './font/acumin-pro-cufonfonts-webfont/font.css';
+
+/* **************** Font Family **************** */
+@import "https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css";
